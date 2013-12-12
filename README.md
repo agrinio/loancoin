@@ -1,0 +1,4 @@
+loancoin
+========
+
+Cryptocurrency coin
